@@ -1,0 +1,21 @@
+# Credentials and secrets
+credentials.json
+token.json
+.env
+.env.*
+
+# Databases
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
